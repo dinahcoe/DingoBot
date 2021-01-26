@@ -1,6 +1,6 @@
 # DingoBot
 
-DingoBot is a multi-purpose discord bot, with functions being updated intermittently.
+DingoBot is a multi-purpose Discord bot, with functions being updated intermittently.
 This is a pet project to increase familiarity with discord bot programmable capabilities.
 
 ## Getting Started
